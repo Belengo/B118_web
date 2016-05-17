@@ -100,8 +100,5 @@
 
 
 <?php
-  echo "Hello";        
-  echo "QUetal cambio2" ;
-  echo "CAMBIO 3 CO":
-  echo "Bionick";
+
 ?> <!-- Termina php-->
